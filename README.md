@@ -2,7 +2,7 @@ I am improving my Python skills and using it as my main programming language, as
 
 everyday time spent:
 
-📚 2 hours — Concept learning and understanding
+📚 3 hours — Concept learning and understanding
 
 🛠️ 3 hours — Building real life scenario mini projects
 
