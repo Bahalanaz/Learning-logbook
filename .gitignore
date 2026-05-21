@@ -4,10 +4,12 @@ __pycache__/
 
 # Virtual environment
 venv/
-*/venv/
 
 # Django
 db.sqlite3
+
+# Django migrations cache
+**/migrations/__pycache__/
 
 # IDE files
 .vscode/
