@@ -1,7 +1,0 @@
-kith
-20
-sheesh
-learning python file handling
-Name: Kith, Role: Admin
-Name: Railey, Role: User
-Name: Maramag, Role: User
