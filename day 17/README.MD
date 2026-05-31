@@ -1,0 +1,1 @@
+reinforcing my undestanding on APIView serializers authentications permissions etc. with fleetflow
