@@ -1,4 +1,4 @@
-I am improving my Python skills and using it as my main programming language, as part of my learning journey into backend development and real-world project building.
+I am learning both frontend and backend development while improving my programming skills through real-world projects.
 
 everyday time spent:
 
