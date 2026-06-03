@@ -1,0 +1,71 @@
+
+.counter-container {
+  width: 360px;
+  margin: 80px auto;
+  padding: 24px;
+  background: #0b0b0b;
+  border: 1px solid #1f1f1f;
+  border-radius: 14px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.5);
+  text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+
+  font-family: Arial, sans-serif;
+}
+
+
+.counter-container p {
+  margin: 0;
+  font-size: 75px;
+  color: #eaeaea;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.counter-container p:first-of-type,
+.counter-container p:nth-of-type(2),
+.counter-container p:nth-of-type(3) {
+  font-weight: 600;
+}
+
+.counter-container button {
+  padding: 10px 14px;
+  width: 90px;
+  
+  font-size: 14px;
+  font-weight: 500;
+  color: #fff;
+  background: #151515;
+  border: 1px solid #2a2a2a;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  align-self: flex-start;
+  margin: 10px;
+}
+
+
+.counter-container button:hover {
+  background: #1d1d1d;
+  border-color: #3a3a3a;
+  transform: translateY(-2px);
+}
+
+.counter-container button:active {
+  transform: scale(0.97);
+}
+
+.status-yes {
+  color: #4ade80;
+  font-weight: 600;
+}
+
+.status-no {
+  color: #f87171;
+  font-weight: 600;
+}
