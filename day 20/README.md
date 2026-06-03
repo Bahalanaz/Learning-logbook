@@ -91,9 +91,6 @@ By completing this project, I gained practical understanding of:
 ---
 
 ## 🎯 Current Level
-
-Beginner React Developer → Building core confidence in:
-
 - State management
 - Event handling
 - Form handling
