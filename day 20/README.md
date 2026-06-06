@@ -1,11 +1,9 @@
 # React State & Events Practice Project
-
-This repository documents my progress in learning React fundamentals through hands-on practice with state management, event handling, and controlled components.
 ---
 
-## 🚀 Project Overview
+## 🚀 Folder Overview
 
-This project focuses on understanding how React handles state changes, user interactions, and form inputs using functional components and the `useState` hook.
+This Folder focuses on understanding how React handles state changes, user interactions, and form inputs using functional components and the `useState` hook.
 
 It includes multiple small components that demonstrate real-world UI behavior such as counters, form inputs, toggles, and controlled elements.
 
