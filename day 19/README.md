@@ -1,12 +1,8 @@
-# React Fundamentals Practice Project
-
-This repository documents my progress in learning React fundamentals through hands-on practice with components, props, conditional rendering, lists, events, and styling.
-
 ---
 
-## 🚀 Project Overview
+## 🚀 Folder Overview
 
-This project focuses on building reusable React components and combining them into a simple UI system.
+This folder focuses on building reusable React components and combining them into a simple UI system.
 
 Key features implemented:
 - Functional components
